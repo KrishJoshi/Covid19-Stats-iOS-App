@@ -11,7 +11,13 @@ Unfortunalty Apple doesn't allow COVID related apps on the App Store so only opt
 
 Use Covid Stats.xcworkspace when opening this app on XCode insted of Covid Stats.xcodeproj
 
-### Running 
+### Running
+**Main App**
+The app has two main sections today and summary. Today will show the latest figures while Summary shows total stats. On the top right of the app there's sort where you can change the way you see the details. 
+
+**Widget**
+After adding the widget, user can long press the widget and click on "Edit 'Covid Stats'", here user can select the country they would like to see the stats for. 
 
 ### Mention
-Thanks to @aaryankotharii for creating [Corona-Widget](https://github.com/aaryankotharii/Corona-Widget). It's was used as a Fork and inspiration for this project. 
+- Thanks to @aaryankotharii for creating [Corona-Widget](https://github.com/aaryankotharii/Corona-Widget). It's was used as a Fork and inspiration for this project. 
+- [Covid API](https://covid-19-apis.postman.com/) for providing the latest data
