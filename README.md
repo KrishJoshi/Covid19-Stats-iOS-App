@@ -4,7 +4,7 @@ iOS App to show daily stats with a Widget and Watch App
 Created an Covid 19 stats app to learn Swift and show the stats for today using a widget. 
 
 ### Demo
-![Covid19-Stats-iOS-App Demo](https://i.imgur.com/bVldzIO.gif)
+![Covid19-Stats-iOS-App Demo](https://i.imgur.com/bVldzIO.gifv)
 
 ### Installing
 Unfortunalty Apple doesn't allow COVID related apps on the App Store so only option is to using a 3rd party ipa installer or building this project on XCode.
